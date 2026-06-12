@@ -1,0 +1,3 @@
+# Buscador de cargas académicas
+
+El proceso comienza cuando Duoc UC publica semestralmente en su sitio web los archivos Excel con las cargas académicas disponibles en cada sede. Los estudiantes utilizan esta información para crear su propia carga académica, lo cual es un proceso individual. Para facilitar y optimizar esta tarea, se desarrolló el buscador de cargas académicas, una herramienta que permite a los alumnos encontrar rápidamente las asignaturas que se ajustan a sus intereses y necesidades.
